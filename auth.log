@@ -1,0 +1,437 @@
+Sep 23 06:40:01 cdawson2-vm CRON[3156]: pam_unix(cron:session): session closed for user root
+Sep 23 07:15:01 cdawson2-vm CRON[3257]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 07:15:01 cdawson2-vm CRON[3257]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 07:24:01 cdawson2-vm CRON[3262]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 07:24:01 cdawson2-vm CRON[3262]: pam_unix(cron:session): session closed for user root
+Sep 23 07:38:01 cdawson2-vm CRON[3265]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 07:38:01 cdawson2-vm CRON[3265]: pam_unix(cron:session): session closed for user root
+Sep 23 08:15:01 cdawson2-vm CRON[3268]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 08:15:01 cdawson2-vm CRON[3268]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 08:24:01 cdawson2-vm CRON[3273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 08:24:02 cdawson2-vm CRON[3273]: pam_unix(cron:session): session closed for user root
+Sep 23 09:15:01 cdawson2-vm CRON[3277]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 09:15:01 cdawson2-vm CRON[3277]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 09:24:01 cdawson2-vm CRON[3282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 09:24:01 cdawson2-vm CRON[3282]: pam_unix(cron:session): session closed for user root
+Sep 23 10:15:01 cdawson2-vm CRON[3285]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 10:15:01 cdawson2-vm CRON[3285]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 10:24:01 cdawson2-vm CRON[3291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 10:24:01 cdawson2-vm CRON[3291]: pam_unix(cron:session): session closed for user root
+Sep 23 11:15:01 cdawson2-vm CRON[3294]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 11:15:01 cdawson2-vm CRON[3294]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 11:24:01 cdawson2-vm CRON[3299]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 11:24:01 cdawson2-vm CRON[3299]: pam_unix(cron:session): session closed for user root
+Sep 23 12:15:01 cdawson2-vm CRON[3303]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 12:15:02 cdawson2-vm CRON[3303]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 12:24:01 cdawson2-vm CRON[3308]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 12:24:01 cdawson2-vm CRON[3308]: pam_unix(cron:session): session closed for user root
+Sep 23 13:15:01 cdawson2-vm CRON[3311]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 13:15:01 cdawson2-vm CRON[3311]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 13:24:01 cdawson2-vm CRON[3316]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 13:24:01 cdawson2-vm CRON[3316]: pam_unix(cron:session): session closed for user root
+Sep 23 14:15:01 cdawson2-vm CRON[3320]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 14:15:01 cdawson2-vm CRON[3320]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 14:24:01 cdawson2-vm CRON[3325]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 14:24:01 cdawson2-vm CRON[3325]: pam_unix(cron:session): session closed for user root
+Sep 23 15:15:01 cdawson2-vm CRON[3328]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 15:15:02 cdawson2-vm CRON[3328]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 15:24:01 cdawson2-vm CRON[3334]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 15:24:01 cdawson2-vm CRON[3334]: pam_unix(cron:session): session closed for user root
+Sep 23 16:15:01 cdawson2-vm CRON[3337]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 16:15:01 cdawson2-vm CRON[3337]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 16:24:01 cdawson2-vm CRON[3342]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 16:24:01 cdawson2-vm CRON[3342]: pam_unix(cron:session): session closed for user root
+Sep 23 17:15:01 cdawson2-vm CRON[3346]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 17:15:01 cdawson2-vm CRON[3346]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 17:24:01 cdawson2-vm CRON[3395]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 17:24:01 cdawson2-vm CRON[3395]: pam_unix(cron:session): session closed for user root
+Sep 23 18:15:01 cdawson2-vm CRON[3398]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 18:15:01 cdawson2-vm CRON[3398]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 18:24:01 cdawson2-vm CRON[3403]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 18:24:01 cdawson2-vm CRON[3403]: pam_unix(cron:session): session closed for user root
+Sep 23 19:15:01 cdawson2-vm CRON[3407]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 19:15:02 cdawson2-vm CRON[3407]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 19:24:01 cdawson2-vm CRON[3456]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 19:24:01 cdawson2-vm CRON[3456]: pam_unix(cron:session): session closed for user root
+Sep 23 20:15:01 cdawson2-vm CRON[3460]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 20:15:01 cdawson2-vm CRON[3460]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 20:24:01 cdawson2-vm CRON[3466]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 20:24:01 cdawson2-vm CRON[3466]: pam_unix(cron:session): session closed for user root
+Sep 23 21:15:01 cdawson2-vm CRON[3469]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 21:15:01 cdawson2-vm CRON[3469]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 21:24:01 cdawson2-vm CRON[3474]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 21:24:01 cdawson2-vm CRON[3474]: pam_unix(cron:session): session closed for user root
+Sep 23 22:15:01 cdawson2-vm CRON[3478]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 22:15:01 cdawson2-vm CRON[3478]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 22:24:01 cdawson2-vm CRON[3483]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 22:24:01 cdawson2-vm CRON[3483]: pam_unix(cron:session): session closed for user root
+Sep 23 23:15:01 cdawson2-vm CRON[3486]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 23 23:15:02 cdawson2-vm CRON[3486]: pam_unix(cron:session): session closed for user cdawson2
+Sep 23 23:24:01 cdawson2-vm CRON[3491]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 23 23:24:01 cdawson2-vm CRON[3491]: pam_unix(cron:session): session closed for user root
+Sep 24 00:15:01 cdawson2-vm CRON[3495]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 00:15:01 cdawson2-vm CRON[3495]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 00:24:01 cdawson2-vm CRON[3500]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 00:24:01 cdawson2-vm CRON[3500]: pam_unix(cron:session): session closed for user root
+Sep 24 01:15:01 cdawson2-vm CRON[3503]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 01:15:01 cdawson2-vm CRON[3503]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 01:24:01 cdawson2-vm CRON[3509]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 01:24:01 cdawson2-vm CRON[3509]: pam_unix(cron:session): session closed for user root
+Sep 24 02:15:01 cdawson2-vm CRON[3512]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 02:15:01 cdawson2-vm CRON[3512]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 02:24:01 cdawson2-vm CRON[3517]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 02:24:01 cdawson2-vm CRON[3517]: pam_unix(cron:session): session closed for user root
+Sep 24 03:15:01 cdawson2-vm CRON[3521]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 03:15:02 cdawson2-vm CRON[3521]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 03:24:01 cdawson2-vm CRON[3526]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 03:24:01 cdawson2-vm CRON[3526]: pam_unix(cron:session): session closed for user root
+Sep 24 04:15:01 cdawson2-vm CRON[3529]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 04:15:01 cdawson2-vm CRON[3529]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 04:24:01 cdawson2-vm CRON[3534]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 04:24:01 cdawson2-vm CRON[3534]: pam_unix(cron:session): session closed for user root
+Sep 24 05:15:01 cdawson2-vm CRON[3538]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 05:15:01 cdawson2-vm CRON[3538]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 05:24:01 cdawson2-vm CRON[3543]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 05:24:01 cdawson2-vm CRON[3543]: pam_unix(cron:session): session closed for user root
+Sep 24 06:15:01 cdawson2-vm CRON[3546]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 06:15:01 cdawson2-vm CRON[3546]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 06:24:01 cdawson2-vm CRON[3552]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 06:24:01 cdawson2-vm CRON[3552]: pam_unix(cron:session): session closed for user root
+Sep 24 06:40:01 cdawson2-vm CRON[3599]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 06:40:02 cdawson2-vm CRON[3599]: pam_unix(cron:session): session closed for user root
+Sep 24 07:15:01 cdawson2-vm CRON[3695]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 07:15:01 cdawson2-vm CRON[3695]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 07:24:01 cdawson2-vm CRON[3700]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 07:24:01 cdawson2-vm CRON[3700]: pam_unix(cron:session): session closed for user root
+Sep 24 07:38:01 cdawson2-vm CRON[3703]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 07:38:01 cdawson2-vm CRON[3703]: pam_unix(cron:session): session closed for user root
+Sep 24 08:15:01 cdawson2-vm CRON[3707]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 08:15:01 cdawson2-vm CRON[3707]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 08:24:01 cdawson2-vm CRON[3712]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 08:24:01 cdawson2-vm CRON[3712]: pam_unix(cron:session): session closed for user root
+Sep 24 09:15:01 cdawson2-vm CRON[3715]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 09:15:02 cdawson2-vm CRON[3715]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 09:24:01 cdawson2-vm CRON[3720]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 09:24:01 cdawson2-vm CRON[3720]: pam_unix(cron:session): session closed for user root
+Sep 24 10:15:01 cdawson2-vm CRON[3724]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 10:15:01 cdawson2-vm CRON[3724]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 10:24:01 cdawson2-vm CRON[3729]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 10:24:01 cdawson2-vm CRON[3729]: pam_unix(cron:session): session closed for user root
+Sep 24 11:15:01 cdawson2-vm CRON[3732]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 11:15:01 cdawson2-vm CRON[3732]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 11:24:01 cdawson2-vm CRON[3738]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 11:24:01 cdawson2-vm CRON[3738]: pam_unix(cron:session): session closed for user root
+Sep 24 12:15:01 cdawson2-vm CRON[3741]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 12:15:02 cdawson2-vm CRON[3741]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 12:24:01 cdawson2-vm CRON[3746]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 12:24:01 cdawson2-vm CRON[3746]: pam_unix(cron:session): session closed for user root
+Sep 24 13:15:01 cdawson2-vm CRON[3794]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 13:15:01 cdawson2-vm CRON[3794]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 13:24:01 cdawson2-vm CRON[3799]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 13:24:01 cdawson2-vm CRON[3799]: pam_unix(cron:session): session closed for user root
+Sep 24 14:15:01 cdawson2-vm CRON[3802]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 14:15:01 cdawson2-vm CRON[3802]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 14:24:01 cdawson2-vm CRON[3807]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 14:24:01 cdawson2-vm CRON[3807]: pam_unix(cron:session): session closed for user root
+Sep 24 15:15:01 cdawson2-vm CRON[3811]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 15:15:01 cdawson2-vm CRON[3811]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 15:24:01 cdawson2-vm CRON[3816]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 15:24:01 cdawson2-vm CRON[3816]: pam_unix(cron:session): session closed for user root
+Sep 24 16:15:01 cdawson2-vm CRON[3819]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 16:15:02 cdawson2-vm CRON[3819]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 16:24:01 cdawson2-vm CRON[3825]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 16:24:01 cdawson2-vm CRON[3825]: pam_unix(cron:session): session closed for user root
+Sep 24 17:15:01 cdawson2-vm CRON[3828]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 17:15:01 cdawson2-vm CRON[3828]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 17:24:01 cdawson2-vm CRON[3833]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 17:24:01 cdawson2-vm CRON[3833]: pam_unix(cron:session): session closed for user root
+Sep 24 18:15:01 cdawson2-vm CRON[3837]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 18:15:01 cdawson2-vm CRON[3837]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 18:24:01 cdawson2-vm CRON[3842]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 18:24:01 cdawson2-vm CRON[3842]: pam_unix(cron:session): session closed for user root
+Sep 24 19:15:01 cdawson2-vm CRON[3845]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 19:15:01 cdawson2-vm CRON[3845]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 19:24:01 cdawson2-vm CRON[3850]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 19:24:01 cdawson2-vm CRON[3850]: pam_unix(cron:session): session closed for user root
+Sep 24 20:15:01 cdawson2-vm CRON[3855]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 20:15:02 cdawson2-vm CRON[3855]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 20:24:01 cdawson2-vm CRON[3860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 20:24:01 cdawson2-vm CRON[3860]: pam_unix(cron:session): session closed for user root
+Sep 24 21:15:01 cdawson2-vm CRON[3863]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 21:15:01 cdawson2-vm CRON[3863]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 21:24:01 cdawson2-vm CRON[3869]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 21:24:01 cdawson2-vm CRON[3869]: pam_unix(cron:session): session closed for user root
+Sep 24 22:15:01 cdawson2-vm CRON[3872]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 22:15:01 cdawson2-vm CRON[3872]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 22:24:01 cdawson2-vm CRON[3877]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 22:24:01 cdawson2-vm CRON[3877]: pam_unix(cron:session): session closed for user root
+Sep 24 23:15:01 cdawson2-vm CRON[3881]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 24 23:15:02 cdawson2-vm CRON[3881]: pam_unix(cron:session): session closed for user cdawson2
+Sep 24 23:24:01 cdawson2-vm CRON[3886]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 24 23:24:01 cdawson2-vm CRON[3886]: pam_unix(cron:session): session closed for user root
+Sep 25 00:15:01 cdawson2-vm CRON[3889]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 00:15:01 cdawson2-vm CRON[3889]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 00:24:01 cdawson2-vm CRON[3894]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 00:24:01 cdawson2-vm CRON[3894]: pam_unix(cron:session): session closed for user root
+Sep 25 01:15:01 cdawson2-vm CRON[3942]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 01:15:01 cdawson2-vm CRON[3942]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 01:24:01 cdawson2-vm CRON[3947]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 01:24:01 cdawson2-vm CRON[3947]: pam_unix(cron:session): session closed for user root
+Sep 25 02:15:01 cdawson2-vm CRON[3950]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 02:15:06 cdawson2-vm CRON[3950]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 02:24:01 cdawson2-vm CRON[3956]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 02:24:01 cdawson2-vm CRON[3956]: pam_unix(cron:session): session closed for user root
+Sep 25 03:15:01 cdawson2-vm CRON[3959]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 03:15:02 cdawson2-vm CRON[3959]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 03:24:01 cdawson2-vm CRON[3964]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 03:24:01 cdawson2-vm CRON[3964]: pam_unix(cron:session): session closed for user root
+Sep 25 04:15:01 cdawson2-vm CRON[3968]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 04:15:01 cdawson2-vm CRON[3968]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 04:24:01 cdawson2-vm CRON[3973]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 04:24:01 cdawson2-vm CRON[3973]: pam_unix(cron:session): session closed for user root
+Sep 25 05:15:01 cdawson2-vm CRON[3976]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 05:15:01 cdawson2-vm CRON[3976]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 05:24:01 cdawson2-vm CRON[3981]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 05:24:01 cdawson2-vm CRON[3981]: pam_unix(cron:session): session closed for user root
+Sep 25 06:15:01 cdawson2-vm CRON[4029]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 06:15:01 cdawson2-vm CRON[4029]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 06:24:01 cdawson2-vm CRON[4034]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 06:24:01 cdawson2-vm CRON[4034]: pam_unix(cron:session): session closed for user root
+Sep 25 06:40:01 cdawson2-vm CRON[4037]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 06:40:01 cdawson2-vm CRON[4037]: pam_unix(cron:session): session closed for user root
+Sep 25 07:15:01 cdawson2-vm CRON[4177]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 07:15:01 cdawson2-vm CRON[4177]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 07:24:01 cdawson2-vm CRON[4183]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 07:24:01 cdawson2-vm CRON[4183]: pam_unix(cron:session): session closed for user root
+Sep 25 07:38:01 cdawson2-vm CRON[4186]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 07:38:01 cdawson2-vm CRON[4186]: pam_unix(cron:session): session closed for user root
+Sep 25 08:15:01 cdawson2-vm CRON[4189]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 08:15:02 cdawson2-vm CRON[4189]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 08:24:01 cdawson2-vm CRON[4194]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 08:24:01 cdawson2-vm CRON[4194]: pam_unix(cron:session): session closed for user root
+Sep 25 09:15:01 cdawson2-vm CRON[4198]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 09:15:01 cdawson2-vm CRON[4198]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 09:24:01 cdawson2-vm CRON[4203]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 09:24:01 cdawson2-vm CRON[4203]: pam_unix(cron:session): session closed for user root
+Sep 25 10:15:01 cdawson2-vm CRON[4206]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 10:15:01 cdawson2-vm CRON[4206]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 10:24:01 cdawson2-vm CRON[4211]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 10:24:01 cdawson2-vm CRON[4211]: pam_unix(cron:session): session closed for user root
+Sep 25 11:15:01 cdawson2-vm CRON[4215]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 11:15:01 cdawson2-vm CRON[4215]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 11:24:01 cdawson2-vm CRON[4220]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 11:24:01 cdawson2-vm CRON[4220]: pam_unix(cron:session): session closed for user root
+Sep 25 12:15:01 cdawson2-vm CRON[4223]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 12:15:02 cdawson2-vm CRON[4223]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 12:24:01 cdawson2-vm CRON[4229]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 12:24:01 cdawson2-vm CRON[4229]: pam_unix(cron:session): session closed for user root
+Sep 25 13:15:01 cdawson2-vm CRON[4232]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 13:15:01 cdawson2-vm CRON[4232]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 13:24:01 cdawson2-vm CRON[4237]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 13:24:01 cdawson2-vm CRON[4237]: pam_unix(cron:session): session closed for user root
+Sep 25 14:15:01 cdawson2-vm CRON[4241]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 14:15:01 cdawson2-vm CRON[4241]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 14:24:01 cdawson2-vm CRON[4246]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 14:24:01 cdawson2-vm CRON[4246]: pam_unix(cron:session): session closed for user root
+Sep 25 15:15:01 cdawson2-vm CRON[4249]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 15:15:02 cdawson2-vm CRON[4249]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 15:24:01 cdawson2-vm CRON[4254]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 15:24:01 cdawson2-vm CRON[4254]: pam_unix(cron:session): session closed for user root
+Sep 25 16:15:01 cdawson2-vm CRON[4258]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 16:15:01 cdawson2-vm CRON[4258]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 16:15:42 cdawson2-vm sshd[4263]: pam_krb5(sshd:auth): user cdawson2 authenticated as cdawson2@UMD.EDU
+Sep 25 16:15:42 cdawson2-vm sshd[4263]: Accepted password for cdawson2 from 172.16.0.1 port 55560 ssh2
+Sep 25 16:15:42 cdawson2-vm sshd[4263]: pam_unix(sshd:session): session opened for user cdawson2 by (uid=0)
+Sep 25 16:15:42 cdawson2-vm systemd-logind[168]: New session 3089358 of user cdawson2.
+Sep 25 16:15:42 cdawson2-vm systemd: pam_unix(systemd-user:session): session opened for user cdawson2 by (uid=0)
+Sep 25 16:24:01 cdawson2-vm CRON[4344]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 16:24:01 cdawson2-vm CRON[4344]: pam_unix(cron:session): session closed for user root
+Sep 25 16:44:28 cdawson2-vm sshd[4279]: Received disconnect from 172.16.0.1 port 55560:11: disconnected by user
+Sep 25 16:44:28 cdawson2-vm sshd[4279]: Disconnected from 172.16.0.1 port 55560
+Sep 25 16:44:28 cdawson2-vm sshd[4263]: pam_unix(sshd:session): session closed for user cdawson2
+Sep 25 16:44:28 cdawson2-vm systemd-logind[168]: Removed session 3089358.
+Sep 25 17:15:01 cdawson2-vm CRON[4391]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 17:15:01 cdawson2-vm CRON[4391]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 17:24:01 cdawson2-vm CRON[4397]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 17:24:01 cdawson2-vm CRON[4397]: pam_unix(cron:session): session closed for user root
+Sep 25 18:15:01 cdawson2-vm CRON[4400]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 18:15:01 cdawson2-vm CRON[4400]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 18:24:01 cdawson2-vm CRON[4405]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 18:24:01 cdawson2-vm CRON[4405]: pam_unix(cron:session): session closed for user root
+Sep 25 19:15:01 cdawson2-vm CRON[4409]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 19:15:01 cdawson2-vm CRON[4409]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 19:24:01 cdawson2-vm CRON[4414]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 19:24:01 cdawson2-vm CRON[4414]: pam_unix(cron:session): session closed for user root
+Sep 25 20:15:01 cdawson2-vm CRON[4418]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 20:15:02 cdawson2-vm CRON[4418]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 20:24:01 cdawson2-vm CRON[4423]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 20:24:01 cdawson2-vm CRON[4423]: pam_unix(cron:session): session closed for user root
+Sep 25 21:15:01 cdawson2-vm CRON[4427]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 21:15:01 cdawson2-vm CRON[4427]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 21:24:01 cdawson2-vm CRON[4432]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 21:24:01 cdawson2-vm CRON[4432]: pam_unix(cron:session): session closed for user root
+Sep 25 22:15:01 cdawson2-vm CRON[4435]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 22:15:01 cdawson2-vm CRON[4435]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 22:24:01 cdawson2-vm CRON[4441]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 22:24:01 cdawson2-vm CRON[4441]: pam_unix(cron:session): session closed for user root
+Sep 25 23:15:01 cdawson2-vm CRON[4444]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 25 23:15:01 cdawson2-vm CRON[4444]: pam_unix(cron:session): session closed for user cdawson2
+Sep 25 23:24:01 cdawson2-vm CRON[4449]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 25 23:24:01 cdawson2-vm CRON[4449]: pam_unix(cron:session): session closed for user root
+Sep 26 00:15:02 cdawson2-vm CRON[4453]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 00:15:02 cdawson2-vm CRON[4453]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 00:24:01 cdawson2-vm CRON[4458]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 00:24:01 cdawson2-vm CRON[4458]: pam_unix(cron:session): session closed for user root
+Sep 26 01:15:01 cdawson2-vm CRON[4461]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 01:15:01 cdawson2-vm CRON[4461]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 01:24:01 cdawson2-vm CRON[4466]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 01:24:01 cdawson2-vm CRON[4466]: pam_unix(cron:session): session closed for user root
+Sep 26 02:15:01 cdawson2-vm CRON[4470]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 02:15:01 cdawson2-vm CRON[4470]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 02:24:01 cdawson2-vm CRON[4475]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 02:24:01 cdawson2-vm CRON[4475]: pam_unix(cron:session): session closed for user root
+Sep 26 03:15:01 cdawson2-vm CRON[4478]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 03:15:01 cdawson2-vm CRON[4478]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 03:24:01 cdawson2-vm CRON[4484]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 03:24:01 cdawson2-vm CRON[4484]: pam_unix(cron:session): session closed for user root
+Sep 26 04:15:01 cdawson2-vm CRON[4487]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 04:15:02 cdawson2-vm CRON[4487]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 04:24:01 cdawson2-vm CRON[4492]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 04:24:01 cdawson2-vm CRON[4492]: pam_unix(cron:session): session closed for user root
+Sep 26 05:15:01 cdawson2-vm CRON[4496]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 05:15:01 cdawson2-vm CRON[4496]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 05:24:01 cdawson2-vm CRON[4501]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 05:24:01 cdawson2-vm CRON[4501]: pam_unix(cron:session): session closed for user root
+Sep 26 06:15:01 cdawson2-vm CRON[4548]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 06:15:01 cdawson2-vm CRON[4548]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 06:24:01 cdawson2-vm CRON[4553]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 06:24:01 cdawson2-vm CRON[4553]: pam_unix(cron:session): session closed for user root
+Sep 26 06:40:01 cdawson2-vm CRON[4556]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 06:40:02 cdawson2-vm CRON[4556]: pam_unix(cron:session): session closed for user root
+Sep 26 07:15:01 cdawson2-vm CRON[4697]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 07:15:01 cdawson2-vm CRON[4697]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 07:24:01 cdawson2-vm CRON[4702]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 07:24:01 cdawson2-vm CRON[4702]: pam_unix(cron:session): session closed for user root
+Sep 26 07:38:01 cdawson2-vm CRON[4705]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 07:38:01 cdawson2-vm CRON[4705]: pam_unix(cron:session): session closed for user root
+Sep 26 08:15:01 cdawson2-vm CRON[4708]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 08:15:01 cdawson2-vm CRON[4708]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 08:24:01 cdawson2-vm CRON[4714]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 08:24:01 cdawson2-vm CRON[4714]: pam_unix(cron:session): session closed for user root
+Sep 26 09:15:01 cdawson2-vm CRON[4717]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 09:15:04 cdawson2-vm CRON[4717]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 09:24:01 cdawson2-vm CRON[4722]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 09:24:01 cdawson2-vm CRON[4722]: pam_unix(cron:session): session closed for user root
+Sep 26 10:15:01 cdawson2-vm CRON[4726]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 10:15:02 cdawson2-vm CRON[4726]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 10:24:01 cdawson2-vm CRON[4731]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 10:24:01 cdawson2-vm CRON[4731]: pam_unix(cron:session): session closed for user root
+Sep 26 11:15:01 cdawson2-vm CRON[4734]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 11:15:01 cdawson2-vm CRON[4734]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 11:24:01 cdawson2-vm CRON[4739]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 11:24:01 cdawson2-vm CRON[4739]: pam_unix(cron:session): session closed for user root
+Sep 26 12:15:01 cdawson2-vm CRON[4743]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 12:15:01 cdawson2-vm CRON[4743]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 12:24:01 cdawson2-vm CRON[4748]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 12:24:01 cdawson2-vm CRON[4748]: pam_unix(cron:session): session closed for user root
+Sep 26 13:15:01 cdawson2-vm CRON[4751]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 13:15:01 cdawson2-vm CRON[4751]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 13:24:01 cdawson2-vm CRON[4757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 13:24:01 cdawson2-vm CRON[4757]: pam_unix(cron:session): session closed for user root
+Sep 26 14:15:01 cdawson2-vm CRON[4760]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 14:15:02 cdawson2-vm CRON[4760]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 14:24:01 cdawson2-vm CRON[4765]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 14:24:01 cdawson2-vm CRON[4765]: pam_unix(cron:session): session closed for user root
+Sep 26 15:15:01 cdawson2-vm CRON[4769]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 15:15:01 cdawson2-vm CRON[4769]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 15:24:01 cdawson2-vm CRON[4774]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 15:24:01 cdawson2-vm CRON[4774]: pam_unix(cron:session): session closed for user root
+Sep 26 16:15:01 cdawson2-vm CRON[4777]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 16:15:01 cdawson2-vm CRON[4777]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 16:24:01 cdawson2-vm CRON[4782]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 16:24:01 cdawson2-vm CRON[4782]: pam_unix(cron:session): session closed for user root
+Sep 26 17:15:01 cdawson2-vm CRON[4830]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 17:15:06 cdawson2-vm CRON[4830]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 17:24:01 cdawson2-vm CRON[4835]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 17:24:01 cdawson2-vm CRON[4835]: pam_unix(cron:session): session closed for user root
+Sep 26 18:15:01 cdawson2-vm CRON[4838]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 18:15:02 cdawson2-vm CRON[4838]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 18:24:01 cdawson2-vm CRON[4844]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 18:24:01 cdawson2-vm CRON[4844]: pam_unix(cron:session): session closed for user root
+Sep 26 19:15:01 cdawson2-vm CRON[4847]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 19:15:01 cdawson2-vm CRON[4847]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 19:24:01 cdawson2-vm CRON[4852]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 19:24:01 cdawson2-vm CRON[4852]: pam_unix(cron:session): session closed for user root
+Sep 26 20:15:01 cdawson2-vm CRON[4857]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 20:15:01 cdawson2-vm CRON[4857]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 20:24:01 cdawson2-vm CRON[4862]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 20:24:01 cdawson2-vm CRON[4862]: pam_unix(cron:session): session closed for user root
+Sep 26 21:15:01 cdawson2-vm CRON[4865]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 21:15:01 cdawson2-vm CRON[4865]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 21:24:01 cdawson2-vm CRON[4870]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 21:24:01 cdawson2-vm CRON[4870]: pam_unix(cron:session): session closed for user root
+Sep 26 22:15:01 cdawson2-vm CRON[4874]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 22:15:02 cdawson2-vm CRON[4874]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 22:24:01 cdawson2-vm CRON[4879]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 22:24:01 cdawson2-vm CRON[4879]: pam_unix(cron:session): session closed for user root
+Sep 26 23:15:01 cdawson2-vm CRON[4882]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 26 23:15:01 cdawson2-vm CRON[4882]: pam_unix(cron:session): session closed for user cdawson2
+Sep 26 23:24:01 cdawson2-vm CRON[4888]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 26 23:24:01 cdawson2-vm CRON[4888]: pam_unix(cron:session): session closed for user root
+Sep 27 00:15:01 cdawson2-vm CRON[4891]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 00:15:01 cdawson2-vm CRON[4891]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 00:24:01 cdawson2-vm CRON[4896]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 00:24:01 cdawson2-vm CRON[4896]: pam_unix(cron:session): session closed for user root
+Sep 27 01:15:01 cdawson2-vm CRON[4900]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 01:15:02 cdawson2-vm CRON[4900]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 01:24:01 cdawson2-vm CRON[4905]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 01:24:01 cdawson2-vm CRON[4905]: pam_unix(cron:session): session closed for user root
+Sep 27 02:15:01 cdawson2-vm CRON[4908]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 02:15:01 cdawson2-vm CRON[4908]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 02:24:01 cdawson2-vm CRON[4913]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 02:24:01 cdawson2-vm CRON[4913]: pam_unix(cron:session): session closed for user root
+Sep 27 03:15:01 cdawson2-vm CRON[4917]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 03:15:01 cdawson2-vm CRON[4917]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 03:24:01 cdawson2-vm CRON[4922]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 03:24:01 cdawson2-vm CRON[4922]: pam_unix(cron:session): session closed for user root
+Sep 27 04:15:01 cdawson2-vm CRON[4969]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 04:15:01 cdawson2-vm CRON[4969]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 04:24:01 cdawson2-vm CRON[4974]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 04:24:01 cdawson2-vm CRON[4974]: pam_unix(cron:session): session closed for user root
+Sep 27 05:15:01 cdawson2-vm CRON[4978]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 05:15:01 cdawson2-vm CRON[4978]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 05:24:01 cdawson2-vm CRON[4983]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 05:24:02 cdawson2-vm CRON[4983]: pam_unix(cron:session): session closed for user root
+Sep 27 06:15:01 cdawson2-vm CRON[5031]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 06:15:01 cdawson2-vm CRON[5031]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 06:24:01 cdawson2-vm CRON[5036]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 06:24:01 cdawson2-vm CRON[5036]: pam_unix(cron:session): session closed for user root
+Sep 27 06:40:01 cdawson2-vm CRON[5039]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 06:40:01 cdawson2-vm CRON[5039]: pam_unix(cron:session): session closed for user root
+Sep 27 07:15:01 cdawson2-vm CRON[5135]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 07:15:01 cdawson2-vm CRON[5135]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 07:24:01 cdawson2-vm CRON[5140]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 07:24:01 cdawson2-vm CRON[5140]: pam_unix(cron:session): session closed for user root
+Sep 27 07:38:01 cdawson2-vm CRON[5143]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 07:38:01 cdawson2-vm CRON[5143]: pam_unix(cron:session): session closed for user root
+Sep 27 08:15:01 cdawson2-vm CRON[5191]: pam_unix(cron:session): session opened for user cdawson2 by (uid=0)
+Sep 27 08:15:02 cdawson2-vm CRON[5191]: pam_unix(cron:session): session closed for user cdawson2
+Sep 27 08:24:01 cdawson2-vm CRON[5196]: pam_unix(cron:session): session opened for user root by (uid=0)
+Sep 27 08:24:01 cdawson2-vm CRON[5196]: pam_unix(cron:session): session closed for user root
+Sep 27 09:01:48 cdawson2-vm sshd[5199]: pam_krb5(sshd:auth): user cdawson2 authenticated as cdawson2@UMD.EDU
+Sep 27 09:01:48 cdawson2-vm sshd[5199]: Accepted password for cdawson2 from 172.16.0.1 port 51837 ssh2
+Sep 27 09:01:48 cdawson2-vm sshd[5199]: pam_unix(sshd:session): session opened for user cdawson2 by (uid=0)
+Sep 27 09:01:48 cdawson2-vm systemd-logind[168]: New session 3115650 of user cdawson2.
+Sep 27 09:01:48 cdawson2-vm systemd: pam_unix(systemd-user:session): session opened for user cdawson2 by (uid=0)
+Sep 27 09:02:47 cdawson2-vm sshd[5215]: Received disconnect from 172.16.0.1 port 51837:11: disconnected by user
+Sep 27 09:02:47 cdawson2-vm sshd[5215]: Disconnected from 172.16.0.1 port 51837
+Sep 27 09:02:47 cdawson2-vm sshd[5199]: pam_unix(sshd:session): session closed for user cdawson2
+Sep 27 09:02:47 cdawson2-vm systemd-logind[168]: Removed session 3115650.
+Sep 27 09:07:24 cdawson2-vm sshd[5234]: pam_krb5(sshd:auth): user cdawson2 authenticated as cdawson2@UMD.EDU
+Sep 27 09:07:24 cdawson2-vm sshd[5234]: Accepted password for cdawson2 from 172.16.0.1 port 51945 ssh2
+Sep 27 09:07:24 cdawson2-vm sshd[5234]: pam_unix(sshd:session): session opened for user cdawson2 by (uid=0)
+Sep 27 09:07:24 cdawson2-vm systemd-logind[168]: New session 3115687 of user cdawson2.
+Sep 27 09:07:24 cdawson2-vm systemd: pam_unix(systemd-user:session): session opened for user cdawson2 by (uid=0)
+Sep 27 09:07:35 cdawson2-vm sudo: pam_krb5(sudo:auth): user cdawson2 authenticated as cdawson2@UMD.EDU
+Sep 27 09:07:35 cdawson2-vm sudo: cdawson2 : TTY=pts/2 ; PWD=/home/cdawson2 ; USER=root ; COMMAND=/bin/cp /var/log/auth.log .
+Sep 27 09:07:35 cdawson2-vm sudo: pam_unix(sudo:session): session opened for user root by cdawson2(uid=0)
